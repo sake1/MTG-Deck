@@ -14,16 +14,40 @@ Oloro, Ageless Ascetic
 
 // Draw Effect
 
+// Meme
+Overwhelming Splendor
+Curse of Verbosity
+
+// Defense
+Solitary Confinement
+Wall of Denial
+
 // Attack deterent
+Propaganda
+Ghostly Prison
+Sphere of Safety
+Aurification
+No Mercy
+Dissipation Field
+
+// No Attack
+Mystic Barrier
+Peacekeeper
+Lightmine Field
 
 // Win con
+Approach of the Second Sun
+Felidar Sovereign
+Test of Endurance
+Exsanguinate
+Debt to the Deathless
 
 // Tutor
-
-// Defence
 
 
 // 45 Mana Source
 // 35 Land
 
 // 10 Ramp
+
+// unsorted

@@ -6,11 +6,8 @@ Arcades, the Strategist
 Coat of Arms
 Tetsuko, Umezawa Fugitive
 Colossus of Akros
-Approach of the Second Sun
-
-// Pump
-Builder's Blessing
-Castle
+True Conviction
+Sidar Kondo of Jamuraa
 
 // Good Defender
 Carven Caryatid
@@ -19,19 +16,20 @@ Geist of the Archives
 Gomazoa
 Guard Gomazoa
 Jeskai Barricade
-Kaijin of the Vanishing Touch
+Jungle Barrier
 Mnemonic Wall
 Psychic Membrane
 Soulsworn Jury
 Sprouting Phytohydra
 Stalwart Shield-Bearers
 Tree of Redemption
+Wild-Field Scarecrow
 Wall of Blossoms
 Wall of Denial
 Wall of Frost
+Wall of Junk
 Wall of Nets
 Wall of Omens
-Wall of Shards
 Wall of Tears
 Wall of Vapor
 
@@ -42,27 +40,22 @@ Drift of Phantasms
 Axebane Guardian
 Gatecreeper Vine
 Overgrown Battlement
-Sunscape Familiar
 
 // Engine
 Kindred Discovery
 Vanquisher's Banner
 Conqueror's Galleon
 Growing Rites of Itlimoc
-Tatyova, Benthic Druid
 Assault Formation
 
 // Pillowfort
 Aurification
 Lightmine Field
 Dissipation Field
-Loyal Sentry
-Michiko Konda, Truth Seeker
 Blazing Archon
-Yosei, the Morning Star
 Archon of Justice
-Windborn Muse
 Meekstone
+Meishin, the Mind Cage
 
 // Counterspell
 Overwhelming Intellect
@@ -75,15 +68,13 @@ Gift of Immortality
 Darksteel Plate
 
 // Flicker
-Eerie Interlude
 Brago, King Eternal
 
 // Removal
 Swords to Plowshares
-Dawn Charm
 Imprisoned in the Moon
 Beast Within
-Song of the Dryads
+Darksteel Mutation
 
 Slaughter the Strong
 Dusk
@@ -93,7 +84,6 @@ Fell the Mighty
 // Draw Engine
 Pull from Tomorrow
 Blue Sun's Zenith
-Mystic Remora
 Wall of Mulch
 
 // 46 Mana Source

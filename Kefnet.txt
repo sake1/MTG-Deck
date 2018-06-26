@@ -92,18 +92,16 @@ Expedition Map
 Sky Diamond
 
 // 34 Lands
-Blighted Cataract
-Memorial to Genius
-Mage-Ring Network
+Tolaria West
 Saprazzan Cove
 Lonely Sandbar
 Halimar Depths
+Myriad Landscape
+Mage-Ring Network
 Strip Mine
 Mystifying Maze
 Terrain Generator
 Rogue's Passage
-Myriad Landscape
 Temple of the False God
 Reliquary Tower
-Tolaria West
-20 Island
+22 Island

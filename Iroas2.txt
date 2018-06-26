@@ -1,0 +1,120 @@
+// Commander
+Iroas, God of Victory
+
+// Haste
+Ogre Battledriver
+Urabrask the Hidden
+Anger
+Fervor
+
+// Pump Effect
+Elesh Norn, Grand Cenobite
+Angel of Jubilation
+
+// Damage Explosion
+Aurelia, the Warleader
+Nobilis of War
+Gisela, Blade of Goldnight
+True Conviction
+Combat Celebrant
+Gratuitous Violence
+Assemble the Legion
+Hellkite Charger
+Waves of Aggression
+Aggravated Assault
+
+// Hitter
+Tajic, Blade of the Legion
+Hero of Bladehold
+Hero of Oxid Ridge
+Thunderblust
+Serra Ascendant
+Goblin Rabblemaster
+Kalemne, Disciple of Iroas
+Archangel of Tithes
+Cyclops Gladiator
+Silverblade Paladin
+Odric, master tactician
+
+// Boardwipe
+Martial Coup
+Starstorm
+Magmaquake
+Pyrohemia
+Vandalblast
+
+// Value engine
+Sunbird's Invocation
+Etali, Primal Storm
+Elspeth, Sun's Champion
+Sun Titan
+Sunforger
+Marshal's Anthem
+Oketra the True
+The Immortal Sun
+Grenzo, Havoc Raiser
+Relic Seeker
+Stoneforge Mystic
+God-Favored General
+Sigiled Skink
+
+// Counterspell? XD
+Lapse of Certainty
+
+// Fetch more lands effect
+Solemn Simulacrum
+Weathered Wayfarer
+Kor Cartographer
+Knight of the White Orchid
+Burnished Hart
+
+// Recycle or card draw effect
+Mind's Eye
+Mask of Memory
+Sword of Fire and Ice
+Conqueror's Galleon
+Reforge the Soul
+Slate of Ancestry
+Thraben Inspector
+Magus of the Wheel
+
+// Protection
+Boros Charm
+Grand Abolisher
+Archangel Avacyn
+Ghostway
+Eerie Interlude
+Knight-Captain of Eos
+Legion's Initiative
+
+// 46 Mana Source
+
+// 8 Ramp
+Sol Ring
+Boros Signet
+Boros Keyrune
+Land Tax
+Thaumatic Compass
+Sword of the Animist
+Mind Stone
+Wayfarer's Bauble
+
+// 36 Lands
+Command Tower
+Naya Panorama
+Temple of Triumph
+Boros Garrison
+Temple of the False God
+Clifftop Retreat
+Wind-Scarred Crag
+Homeward Path
+Emeria, the Sky Ruin
+Sunhome, Fortress of the Legion
+Arch of Orazca
+Slayers' Stronghold
+Hanweir Battlements
+Emeria, the Sky Ruin
+Terramorphic Expanse
+Evolving Wilds
+Windbrisk Heights
+Spinerock Knoll

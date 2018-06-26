@@ -1,0 +1,83 @@
+// Commander
+Sram, Senior Edificer
+
+// 53 Spells
+// Low cmc equipment
+Accorder's Shield
+Cathar's Shield
+Bone Saw
+Spidersilk Net
+Paradise Mantle
+
+Golem-Skin Gauntlets
+Masterwork of Ingenuity
+Bloodforged Battle-Axe
+Skullclamp
+
+// Other voltron shell
+Balan, Wandering Knight
+Armory Automaton
+Serra Ascendant
+
+// Engine
+Sigarda's Aid
+Danitha Capashen, Paragon
+Puresteel Paladin
+Foundry Inspector
+Stoneforge Mystic
+Hammer of Nazahn
+Sun Titan
+Auriok Steelshaper
+Jhoira's Familiar
+Conviction
+
+Stonehewer Giant
+
+// Voltron
+Blackblade Reforged
+Loxodon Warhammer
+Silverblade Paladin
+
+// Protection
+Flickering Ward
+Hyena Umbra
+Swiftfoot Boots
+Lightning Greaves
+Grand Abolisher
+Leonin Abunas
+Gift of Immortality
+
+// Recovery
+Restoration Specialist
+
+// Tutor
+Open the Armory
+Steelshaper's Gift
+Enlightened Tutor
+Heliod's Pilgrim
+Taj-Nar Swordsmith
+
+// Card Draw
+
+// Removal
+Swords to Plowshares
+Dispatch
+Path to Exile
+Darksteel Mutation
+
+Wrath of God
+Winds of Rath
+Austere Command
+
+// Unblockable effect
+Spirit Mantle
+
+// Search for lands creature
+Knight of the White Orchid
+Oreskos Explorer
+Solemn Simulacrum
+Weathered Wayfarer
+
+// 46 Mana Source
+// Ramp
+Sword of the Animist

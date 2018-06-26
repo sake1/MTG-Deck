@@ -1,65 +1,48 @@
 // Commander
-Talrand, Sky Summoner
+
 
 // Additional Win-Con
 Kefnet the Mindful
 Coat of Arms
-Rise from the Tides
-Runechanter's Pike
+
 
 // Engine
-Jace's Sanctum
-Primal Amulet
-Metallurgic Summonings
-Docent of Perfection
+
+
 Curious Homunculus
-Isochron Scepter
-Trail of Evidence
-Lightning Greaves
-Swiftfoot Boots
+
+
 
 // Annoying Counterspell
-Negate
-Counterspell
-Swan Song
+
 
 // Removal
-Rapid Hybridization
-Imprisoned in the Moon
-Deep Freeze
 
-Wash Out
-Aetherspouts
-Aetherize
-Curse of the Swine
-Cyclonic Rift
 
 // Drake Generator (31)
 
-Jace's Ingenuity
+
 Strategic Planning
-Anticipate
-Arcane Denial
-Blue Sun's Zenith
-Brainstorm
-Dig Through Time
-Dismiss
-Dream Fracture
-Exclude
-Fact or Fiction
-Impulse
-Keep Watch
+
+
+
+
+
+
+
+
+
+
 Thirst for Knowledge
-Chart a Course
 Opt
 Peer Through Depths
-Pull from Tomorrow
+
 Quicken
 Predict
-Supreme Will
+
 Telling Time
 Think Twice
-Words of Wisdom
+
 Flood of Recollection
 Flux
 Omen
@@ -67,29 +50,14 @@ Ponder
 Portent
 Preordain
 Serum Visions
-Treasure Cruise
+
 
 // Ramp (11)
-Sol Ring
-Thaumatic Compass
-Solemn Simulacrum
-Sapphire Medallion
-Thought Vessel
-Journeyer's Kite
-Burnished Hart
+
 Sky Diamond
 Star Compass
 Coldsteel Heart
-Fellwar Stone
-Mind's Stome
+
+
 
 // Land (32)
-Blighted Cataract
-Lonely Sandbar
-Myriad Landscape
-Reliquary Tower
-Temple of the False God
-Terrain Generator
-Mystifying Maze
-Arch of Orazca
-24 Island
