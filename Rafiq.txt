@@ -1,0 +1,116 @@
+// Commander
+Rafiq of the Many
+
+// 46 Mana Source
+// Land
+Savannah
+Tropical Island
+Tundra
+Breeding Pool
+Hallowed Fountain
+Temple Garden
+Nimbus Maze
+Flooded Strand
+Misty Rainforest
+Windswept Heath
+Flooded Grove
+Mystic Gate
+Wooded Bastion
+Azorius Chancery
+Selesnya Sanctuary
+Simic Growth Chamber
+Adarkar Wastes
+Brushland
+Yavimaya Coast
+Command Tower
+Maze of Ith
+Strip Mine
+Tolarian Academy
+Cathedral of War
+4 Plains
+4 Island
+4 Forest
+
+// Mana Rock
+Sol Ring
+Mana Vault
+Selesnya Signet
+Simic Signet
+Azorius Signet
+Commander's Sphere
+Talisman of Progress
+Talisman of Unity
+Fellwar Stone
+Thought Vessel
+
+// 54 Spells
+// Creature 25
+Sublime Archangel
+Sovereigns of Lost Alara
+Battlegrace Angel
+Thassa, God of the Sea
+Nazahn, Revered Bladesmith
+Bruna, Light of Alabaster
+
+Avacyn, Angel of Hope
+Qasali Pridemage
+Giltspire Avenger
+Mother of Runes
+Stoic Angel
+Silent Arbiter
+Grand Abolisher
+Selfless Spirit
+Dauntless Escort
+Bastion Protector
+Sigarda, Host of Herons
+Sigarda, Heron's Grace
+Edric, Spymaster of Trest
+Solemn Simulacrum
+
+Noble Hierarch
+Eternal Witness
+Cold-Eyed Selkie
+Frontline Sage
+Stoneforge Mystic
+
+// Protection spell
+Gods Willing
+Hammer of Nazahn
+Sword of Body and Mind
+Sword of Feast and Famine
+Sword of Fire and Ice
+Sword of Light and Shadow
+Sword of War and Peace
+Swiftfoot Boots
+Lightning Greaves
+Simic Charm
+Privileged Position
+
+// Counterspell
+Bant Charm
+Counterspell
+Negate
+
+// Mass removal
+Cyclonic Rift
+Austere Command
+Supreme Verdict
+
+// Single target removal
+Swords to Plowshares
+Krosan Grip
+Beast Within
+Return to Dust
+
+// Voltron effect
+Steel of the Godhead
+Shield of the Oversoul
+
+// Ramp
+Cultivate
+Kodama's Reach
+
+// Tutor
+Open the Armory
+Enlightened Tutor
+Eladamri's Call

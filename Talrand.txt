@@ -1,0 +1,96 @@
+// Commander
+Talrand, Sky Summoner
+
+// Land (31)
+Arcane Lighthouse
+Blighted Cataract
+Lonely Sandbar
+Myriad Landscape
+Reliquary Tower
+Scavenger Grounds
+Temple of the False God
+Terrain Generator
+23 Island
+
+// Mana Rock (11)
+Caged Sun
+Commander's Sphere
+Dowsing Dagger
+Hedron Archive
+Sol Ring
+Thought Vessel
+Sapphire Medallion
+Fellwar Stone
+Sky Diamond
+Star Compass
+
+// Additional Win-Con
+Laboratory Maniac
+Coat of Arms
+Rise from the Tides
+
+// Engine
+Jace's Sanctum
+Primal Amulet
+Metallurgic Summonings
+Docent of Perfection
+Curious Homunculus
+High Tide
+Isochron Scepter
+Search for Azcanta
+Trail of Evidence
+
+// Annoying Counterspell
+Forbid
+Spell Crumple
+Disallow
+Rewind
+
+// Removal
+Rapid Hybridization
+Pongify
+
+Aetherspouts
+Curse of the Swine
+Cyclonic Rift
+
+// Drake Generator (37)
+
+Anticipate
+Arcane Denial
+Blue Sun's Zenith
+Brainstorm
+Cryptic Command
+Dig Through Time
+Dismiss
+Dream Fracture
+Exclude
+Fact or Fiction
+Frantic Search
+Hydrolash
+Impulse
+Keep Watch
+Learn from the Past
+Mental Note
+Mystic Confluence
+Obsessive Search
+Opt
+Peek
+Peer Through Depths
+Pull from Tomorrow
+Quicken
+Reach Through Mists
+Remand
+Supreme Will
+Telling Time
+Think Twice
+Thought Scour
+Visions of Beyond
+Flux
+Gitaxian Probe
+Omen
+Ponder
+Portent
+Preordain
+Serum Visions
+Treasure Cruise

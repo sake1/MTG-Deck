@@ -1,0 +1,113 @@
+// Commander
+Iroas, God of Victory
+
+// 53 Spells
+// 33 Creature
+// Bombs
+Aurelia, the Warleader
+Gisela, Blade of Goldnight
+Elesh Norn, Grand Cenobite
+Angelic Skirmisher
+
+// General
+Captain of the Watch
+Field Marshal
+Daru Warchief
+Veteran Swordsmith
+Goldnight Commander
+Paragon of New Dawns
+Adaptive Automaton
+Nobilis of War
+
+// Token Producer
+Preeminent Captain
+Brimaz, King of Oreskos
+Hero of Bladehold
+Benalish Commander
+Knight-Captain of Eos
+God-Favored General
+Precinct Captain
+Darien, King of Kjeldor
+
+// Big Hitter
+Crusader of Odric
+Tajic, Blade of the Legion
+Odric, Master Tactician
+Kalemne, Disciple of Iroas
+Mirror Entity
+Gideon's Avenger
+Akroan Hoplite
+
+// Utilities
+Thalia, Heretic Cathar
+Mentor of the Meek
+Enlistment Officer
+Metallic Mimic
+Legion Loyalist
+
+// 19 Non-Creature
+// Boardwipes
+Martial Coup
+Starstorm
+Magmaquake
+
+// Removal
+Entrapment Maneuver
+Return to Dust
+Wear
+Darksteel Mutation
+
+// Steroids
+Cathars' Crusade
+Vanquisher's Banner
+True Conviction
+Coat of Arms
+
+// Non-creature token generator
+Elspeth, Sun's Champion
+Assemble the Legion
+Launch the Fleet
+Decree of Justice
+
+// Protetion / Recovery
+Lightning Greaves
+Boros Charm
+Mind's Eye
+Skullclamp
+Conqueror's Galleon
+Reforge the Soul
+
+// 46 Mana Source
+// Ramp
+Expedition Map
+Thaumatic Compass
+Solemn Simulacrum
+Sword of the Animist
+Land Tax
+
+// Mana Rock
+Sol Ring
+Thought Vessel
+Boros Signet
+Boros Keyrune
+Caged Sun
+
+// 36 Lands
+Command Tower
+Plateau
+Sacred Foundry
+Arid Mesa
+Rugged Prairie
+Temple of Triumph
+Boros Garrison
+Temple of the False God
+Clifftop Retreat
+Battlefield Forge
+Myriad Landscape
+Nykthos, Shrine to Nyx
+Strip Mine
+Wasteland
+Emeria, the Sky Ruin
+Sunhome, Fortress of the Legion
+11 Plains
+9 Mountain

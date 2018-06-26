@@ -1,0 +1,116 @@
+// Commander
+Noyan Dar, Roil Shaper
+
+// Mass Removal
+Planar Outburst
+Hour of Revelation
+Crush of Tentacles
+Cyclonic Rift
+Aetherspouts
+Aetherize
+Austere Command
+
+// Single Target Removal
+Swords to Plowshares
+Darksteel Mutation
+Imprisoned in the Moon
+Condemn
+Grasp of Fate
+Return to Dust
+
+// Engine
+Talrand, Sky Summoner
+Metallurgic Summonings
+Jace's Sanctum
+Docent of Perfection
+Trail of Evidence
+Search for Azcanta
+Clockspinning
+Capsize
+
+// Bomb
+Herald of Secret Streams
+Abzan Falconer
+Part the Waterveil
+
+// Tax
+Rhystic Study
+Propaganda
+Ghostly Prison
+
+// Protection
+Terra Eternal
+Teferi's Protection
+Darksteel Garrison
+Lightning Greaves
+Swiftfoot Boots
+Maze of Ith
+Vedalken Orrery
+Wall of Resurgence
+
+// Recovery
+Venser's Journal
+Crucible of Worlds
+Enlightened Tutor
+
+// Counterspell
+Counterspell
+Rewind
+Negate
+Teferi's Response
+Disallow
+
+// Card draw
+Brainstorm
+Dig Through Time
+Sphinx's Revelation
+Blue Sun's Zenith
+Quicken
+Pull from Tomorrow
+Deep Analysis
+Think Twice
+Consecrated Sphinx
+Jace's Ingenuity
+
+// Ramp
+Burnished Hart
+Solemn Simulacrum
+Land Tax
+Expedition Map
+Thaumatic Compass
+Rite of Replication
+Journeyer's Kite
+Weathered Wayfarer
+
+// Mana Rock
+Sol Ring
+Thought Vessel
+Azorius Signet
+Gilded Lotus
+
+// Lands
+Darksteel Citadel
+Cascading Cataracts
+Reliquary Tower
+Blighted Cataract
+Irrigated Farmland
+Myriad Landscape
+Academy Ruins
+Mystifying Maze
+Strip Mine
+Celestial Colonnade
+Inkmoth Nexus
+
+Command Tower
+Tundra
+Hallowed Fountain
+Port Town
+Nimbus Maze
+Flooded Strand
+Mystic Gate
+Azorius Chancery
+Temple of Enlightenment
+Temple of the False God
+
+8 Island
+5 Plains

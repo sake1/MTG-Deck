@@ -1,0 +1,129 @@
+Zur, the Enchanter
+
+// 44 Mana source
+// 35 Land
+Tundra
+Underground Sea
+Scrubland
+Godless Shrine
+Hallowed Fountain
+Watery Grave
+Prairie Stream
+Sunken Hollow
+Nimbus Maze
+River of Tears
+Flooded Strand
+Marsh Flats
+Polluted Delta
+Arcane Sanctum
+Azorius Chancery
+Dimir Aqueduct
+Orzhov Basilica
+Adarkar Wastes
+Caves of Koilos
+Underground River
+Bojuka Bog
+Mistveil Plains
+Serra's Sanctum
+Temple of the False God
+Command Tower
+4 Plains
+4 Island
+1 Swamp
+
+// 9 Mana Rock
+Mox Diamond
+Chrome Mox
+Sol Ring
+Thought Vessel
+Fellwar Stone
+Talisman of Dominance
+Talisman of Progress
+Azorius Signet
+Dimir Signet
+Orzhov Signet
+
+// 56 Spell
+// Tutor
+Vampiric Tutor
+Mystical Tutor
+Enlightened Tutor
+
+// 7 Voltron Effect
+Steel of the Godhead
+Ethereal Armor
+Daybreak Coronet
+Phyresis
+Duelist's Heritage
+Battle Mastery
+//Aqueous Form
+Helm of the Gods
+
+// 5 Protection
+Gift of Immortality
+Diplomatic Immunity
+Lightning Greaves
+Swiftfoot Boots
+Vanishing
+
+// 6 Counterspell
+Disallow
+Pact of Negation
+Force of Will
+Negate
+Cryptic Command
+Dawn Charm
+
+// 4 Mass Removal
+Winds of Rath
+Supreme Verdict
+Merciless Eviction
+Cyclonic Rift
+
+// 7 Single Target Removal
+Grasp of Fate
+Oblivion Ring
+Imprisoned in the Moon
+Swords to Plowshares
+//Profane Procession
+Vindicate
+Darksteel Mutation
+
+// 5 Toolbox / Stax effect
+Solemnity
+Rest in Peace
+//Virulent Plague
+Stasis
+Stony Silence
+Aura of Silence
+
+// 9 Just Fun to Play Card
+Leyline of Anticipation
+Copy Enchantment
+Rhystic Study
+//Phyrexian Arena
+Strionic Resonator
+Starfield of Nyx
+Capsize
+Land Tax
+Eidolon of Rhetoric
+Sovereigns of Lost Alara
+
+// 6 Defence
+Greater Auramancy
+Ghostly Prison
+Propaganda
+Sphere of Safety
+//Karmic Justice
+//Aegis of the Gods
+Solitary Confinement
+
+// 4 Recovery
+Necropotence
+Replenish
+Crystal Chimes
+Sun Titan
+
+// 2 Alternate Win-Con
+Bruna, Light of Alabaster
+//Approach of the Second Sun

@@ -1,0 +1,147 @@
+// Commander
+Arcades, the Strategist
+
+// 53 Spells
+// Win Con
+Coat of Arms
+Tetsuko, Umezawa Fugitive
+Colossus of Akros
+Approach of the Second Sun
+
+// Pump
+Builder's Blessing
+Castle
+
+// Good Defender
+Carven Caryatid
+Fog Bank
+Geist of the Archives
+Gomazoa
+Guard Gomazoa
+Jeskai Barricade
+Kaijin of the Vanishing Touch
+Mnemonic Wall
+Psychic Membrane
+Soulsworn Jury
+Sprouting Phytohydra
+Stalwart Shield-Bearers
+Tree of Redemption
+Wall of Blossoms
+Wall of Denial
+Wall of Frost
+Wall of Nets
+Wall of Omens
+Wall of Shards
+Wall of Tears
+Wall of Vapor
+
+// Tutor?
+Drift of Phantasms
+
+// Defender Ramp
+Axebane Guardian
+Gatecreeper Vine
+Overgrown Battlement
+Sunscape Familiar
+
+// Engine
+Kindred Discovery
+Vanquisher's Banner
+Conqueror's Galleon
+Growing Rites of Itlimoc
+Tatyova, Benthic Druid
+Assault Formation
+
+// Pillowfort
+Aurification
+Lightmine Field
+Dissipation Field
+Loyal Sentry
+Michiko Konda, Truth Seeker
+Blazing Archon
+Yosei, the Morning Star
+Archon of Justice
+Windborn Muse
+Meekstone
+
+// Counterspell
+Overwhelming Intellect
+Counterspell
+Disallow
+
+// Protection
+Vanishing
+Gift of Immortality
+Darksteel Plate
+
+// Flicker
+Eerie Interlude
+Brago, King Eternal
+
+// Removal
+Swords to Plowshares
+Dawn Charm
+Imprisoned in the Moon
+Beast Within
+Song of the Dryads
+
+Slaughter the Strong
+Dusk
+Wave of Reckoning
+Fell the Mighty
+
+// Draw Engine
+Pull from Tomorrow
+Blue Sun's Zenith
+Mystic Remora
+Wall of Mulch
+
+// 46 Mana Source
+
+// 4 Ramp
+Kodama's Reach
+Cultivate
+Explosive Vegetation
+Rampant Growth
+
+// 8 Mana Rock
+Sol Ring
+Azorius Signet
+Simic Signet
+Selesnya Signet
+Mind Stone
+Thaumatic Compass
+Talisman of Progress
+Talisman of Unity
+
+// 34 Lands
+Command Tower
+Azorius Guildgate
+Simic Guildgate
+Selesnya Guildgate
+Seaside Citadel
+Azorius Chancery
+Selesnya Sanctuary
+Simic Growth Chamber
+Blossoming Sands
+Tranquil Cove
+Thornwood Falls
+Sejiri Refuge
+Graypelt Refuge
+
+Bant Panorama
+Naya Panorama
+Esper Panorama
+Evolving Wilds
+Terramorphic Expanse
+
+Reliquary Tower
+Temple of the False God
+Saltcrusted Steppe
+Blighted Woodland
+Myriad Landscape
+Novijen, Heart of Progress
+
+3 Plains
+3 Island
+4 Forest

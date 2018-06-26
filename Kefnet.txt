@@ -1,0 +1,109 @@
+// Commander
+Kefnet the Mindful
+
+// 55 Spells
+
+// STAXXXXX
+Propaganda
+Rhystic Study
+
+// Win-Con
+Ulamog, the Infinite Gyre
+Kozilek, Butcher of Truth
+Metallurgic Summonings
+Empyrial Plate
+Eldrazi Conscription
+
+// Engine
+Training Grounds
+Primal Amulet
+Venser's Journal
+Nezahal, Primal Tide
+Mind's Dilation
+Conqueror's Galleon
+Search for Azcanta
+Trail of Evidence
+
+// Protection
+Lightning Greaves
+Swiftfoot Boots
+Vanishing
+Maze of Ith
+
+// Removal
+Imprisoned in the Moon
+Rapid Hybridization
+
+Aetherize
+Aetherspouts
+Cyclonic Rift
+Evacuation
+Wash Out
+Curse of the Swine
+River's Rebuke
+
+// Counterspell
+Counterspell
+Arcane Denial
+Pact of Negation
+Disallow
+Summary Dismissal
+Mystic Confluence
+Time Stop
+Overwhelming Intellect
+
+// Cantrip
+Anticipate
+Impulse
+Brainstorm
+Telling Time
+
+// Draw Spell
+Standstill
+Words of Wisdom
+Intellectual Offering
+Fact or Fiction
+Deep Analysis
+Jace's Ingenuity
+Dig Through Time
+Treasure Cruise
+Pull from Tomorrow
+Blue Sun's Zenith
+Stroke of Genius
+
+// Combo piece
+Quicken
+Capsize
+The Mirari Conjecture
+Part the Waterveil
+Mystical Tutor
+
+// 44 Mana Source
+// 10 Ramp
+Sol Ring
+Thought Vessel
+Mind Stone
+Thaumatic Compass
+Journeyer's Kite
+Hedron Archive
+Solemn Simulacrum
+Sapphire Medallion
+Expedition Map
+Sky Diamond
+
+// 34 Lands
+Blighted Cataract
+Memorial to Genius
+Mage-Ring Network
+Saprazzan Cove
+Lonely Sandbar
+Halimar Depths
+Strip Mine
+Mystifying Maze
+Terrain Generator
+Rogue's Passage
+Myriad Landscape
+Temple of the False God
+Reliquary Tower
+Tolaria West
+20 Island

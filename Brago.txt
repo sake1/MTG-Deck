@@ -1,0 +1,110 @@
+Brago, King Eternal
+
+// 52 Spell
+// Counterspell
+Counterspell
+Glen Elendra Archmage
+Swan Song
+Negate
+
+// Tutor
+Trinket Mage
+Enlightened Tutor
+Muddle the Mixture
+Tezzeret the Seeker
+
+// Combo piece
+Peregrine Drake
+Deadeye Navigator
+Strionic Resonator
+Altar of the Brood
+Meteorite
+Panharmonicon
+
+// Win-con
+Myr Battlesphere
+Elspeth, Sun's Champion
+Ulamog, the Infinite Gyre
+
+// Removal
+Swords to Plowshares
+
+Reality Acid
+Reflector Mage
+Act of Authority
+Spine of Ish Sah
+Detention Sphere
+Nevermaker
+Venser, Shaper Savant
+Angel of Serenity
+Duplicant
+Rishadan Brigand
+
+// Boardwipe
+Sunblast Angel
+Cyclonic Rift
+Austere Command
+
+// Card Advantage
+Mulldrifter
+Cloudblazer
+Mystic Remora
+Rhystic Study
+Cloudform
+Wall of Omens
+Blue Sun's Zenith
+Ichor Wellspring
+
+// Blink
+Momentary Blink
+Cloudshift
+Ghostway
+Eerie Interlude
+Venser, the Sojourner
+Felidar Guardian
+Flickerwisp
+Restoration Angel
+
+// Commander protection
+Lightning Greaves
+Swiftfoot Boots
+Whispersilk Cloak
+Pentarch Ward
+
+// 48 Mana Source
+// 14 Ramp
+Sol Ring
+Basalt Monolith
+Grim Monolith
+Mana Vault
+Thought Vessel
+Gilded Lotus
+Thran Dynamo
+Worn Powerstone
+Azorius Signet
+
+Solemn Simulacrum
+Kor Cartographer
+Mycosynth Wellspring
+Land Tax
+Expedition Map
+
+// 34 Lands
+Command Tower
+Glacial Fortress
+Azorius Chancery
+Hallowed Fountain
+Flooded Strand
+Adarkar Wastes
+Mystic Gate
+
+Temple of the False God
+Reliquary Tower
+Arcane Lighthouse
+Inventors' Fair
+Academy Ruins
+Tundra
+Strip Mine
+
+10 Plains
+10 Island
