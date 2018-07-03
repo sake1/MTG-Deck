@@ -21,8 +21,7 @@ Venser's Journal
 Nezahal, Primal Tide
 Mind's Dilation
 Conqueror's Galleon
-Search for Azcanta
-Trail of Evidence
+Toothy, Imaginary Friend
 
 // Protection
 Lightning Greaves
@@ -51,6 +50,8 @@ Summary Dismissal
 Mystic Confluence
 Time Stop
 Overwhelming Intellect
+Spell Swindle
+Cryptic Command
 
 // Cantrip
 Anticipate
@@ -60,11 +61,11 @@ Telling Time
 
 // Draw Spell
 Standstill
-Words of Wisdom
 Intellectual Offering
 Fact or Fiction
 Deep Analysis
 Jace's Ingenuity
+
 Dig Through Time
 Treasure Cruise
 Pull from Tomorrow
